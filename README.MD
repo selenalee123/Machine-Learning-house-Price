@@ -1,11 +1,11 @@
 Steps in this Machine learning Model 
 
- Data Collection
- Data Pre-processing
+1. Data Collection
+2. Data Pre-processing
 • Outlier Treatment
 • Missing value imputation
 • Variable transformation
- Model training Suing 3 types of Methods: 
+3. Model training using 3 types of Methods: 
 + Logistic regression
 + Linear Discriminant Analysis 
 + K-Nearest Neighbors (n=3) 
@@ -13,7 +13,7 @@ Steps in this Machine learning Model
 • Use template to train
 • Do iterations
 • Compare performance of different methods using test set
- Select the best model
+4. Select the best model
 • For prediction purposes use model with best accuracy
 • For interpretation purposes look at the coefficient values of parametric
 models 
